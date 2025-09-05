@@ -166,6 +166,7 @@ body {
 @media screen and (max-width: 991px ) {
     .pic-div{
         width: 70% !important;
+            overflow-x: hidden !important;
     }
 }
 .skill-card:hover{
@@ -219,4 +220,10 @@ textarea:focus {
     .form{
         width: 95% !important;
     }
+    .elabout{
+        width: 100% !important;
+        padding: 1em !important;
+        text-align: center !important;
+    }
+
 }
