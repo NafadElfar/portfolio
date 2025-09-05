@@ -225,5 +225,8 @@ textarea:focus {
         padding: 1em !important;
         text-align: center !important;
     }
+    .kalam{
+        width: 95% !important;
+    }
 
 }
